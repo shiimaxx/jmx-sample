@@ -1,4 +1,4 @@
-package com.shiimaxx.jmx-sample;
+package com.shiimaxx.jmxsample;
 
 import static org.junit.Assert.assertTrue;
 
